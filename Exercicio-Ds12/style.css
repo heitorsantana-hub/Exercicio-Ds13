@@ -1,0 +1,16 @@
+#fundo{
+    background-color: black;
+    color: white;
+    a{
+        color: white;
+    }
+}
+
+#titulo{
+    justify-items: center;
+}
+
+#cards{
+    color: black;
+    justify-items: center;
+}
